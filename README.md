@@ -1,16 +1,24 @@
-## Hi there 👋
+# Wang Hao / Tipphobia
 
-<!--
-**Tipphobia/Tipphobia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building quietly at the intersection of **AI, research, and useful software**.
 
-Here are some ideas to get you started:
+I'm a student at **Peking University** interested in turning ambitious ideas into things that can actually run — especially tools that help people think, discover, and create better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently exploring
+
+- Agent-first workflows for scientific and medical research
+- LLM applications and open-source AI tools
+- The space between a rough experiment and a reliable product
+
+### Selected work
+
+- [med-autoscience](https://github.com/Tipphobia/med-autoscience) — publication-oriented research operations for medical science
+- [pandora-cloud-serverless](https://github.com/Tipphobia/pandora-cloud-serverless) — serverless deployment for Pandora Cloud
+
+### A few words
+
+I like projects with a clear purpose, simple interfaces, and enough depth to keep asking better questions.
+
+<div align="center">
+  <sub>Still learning. Still building.</sub>
+</div>
