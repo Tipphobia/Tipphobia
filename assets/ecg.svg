@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#164E63" stroke-width="0.5" opacity="0.6"/>
+    </pattern>
+    <pattern id="G" width="100" height="100" patternUnits="userSpaceOnUse">
+      <path d="M100 0H0V100" fill="none" stroke="#155E75" stroke-width="1" opacity="0.8"/>
+    </pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="220" fill="url(#bg)"/>
+  <rect width="900" height="220" fill="url(#g)"/>
+  <rect width="900" height="220" fill="url(#G)"/>
+  <path d="M0,130 L60,130 L75,122 L90,130 L120,130 L132,140 L145,40 L160,180 L172,130 L210,130 L232,112 L258,130 L300,130 L360,130 L375,122 L390,130 L420,130 L432,140 L445,40 L460,180 L472,130 L510,130 L532,112 L558,130 L600,130 L660,130 L675,122 L690,130 L720,130 L732,140 L745,40 L760,180 L772,130 L810,130 L832,112 L858,130 L900,130" fill="none" stroke="#22D3EE" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" pathLength="1000" stroke-dasharray="1000" stroke-dashoffset="1000">
+    <animate attributeName="stroke-dashoffset" values="1000;0;0;-1000" keyTimes="0;0.55;0.85;1" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <text x="450" y="92" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="54" font-weight="700" fill="#E0F2FE">Tipphobia</text>
+  <text x="450" y="205" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#7DD3FC">Medicine x Engineering x AI</text>
+  <text x="14" y="22" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#F87171">LEAD II  25mm/s  10mm/mV</text>
+  <text x="886" y="22" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#4ADE80">SYS OK  build: passing</text>
+</svg>
