@@ -14,7 +14,7 @@
 
 ## About me
 
-I'm **Wang Hao**, a student at **Peking University** interested in the space where **AI, research, and useful software** meet.
+I'm a student at **Peking University** interested in the space where **AI, research, and useful software** meet.
 
 I enjoy turning a rough idea into a system that can run, be understood, and help someone do better work. My current focus is on agent-first workflows, LLM applications, and tools for scientific and medical research.
 
